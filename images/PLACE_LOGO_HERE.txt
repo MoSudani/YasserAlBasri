@@ -1,0 +1,33 @@
+# 📌 IMPORTANT: ADD YOUR LOGO
+
+## How to Add Your Logo to the Website
+
+Your logo image needs to be placed in the `images` folder.
+
+### Steps:
+
+1. **Save your logo image** (the circular one with ياسر البصري calligraphy)
+   
+2. **Name it exactly:** `logo.png`
+
+3. **Place it in:** `C:\sheikh-yassir-website\images\logo.png`
+
+### Image Specifications:
+
+- **Format:** PNG with transparent background (recommended)
+- **Size:** 200x200 pixels or larger (will be automatically resized)
+- **Shape:** Circular design works best
+- **Quality:** High resolution for crisp display
+
+### Your Logo Design:
+- Circular Islamic geometric pattern ✓
+- Arabic calligraphy: ياسر البصري ✓
+- Gold/beige calligraphy (#c9a961) ✓
+- Deep green/teal patterns (#1a5f5a) ✓
+- Dark background ✓
+
+Once you place the `logo.png` file in the images folder, refresh your browser and you'll see it appear in:
+- Top navigation bar (all pages)
+- Footer (all pages)
+
+The logo is already configured to display as a 70x70px circle in the navbar and will look great!

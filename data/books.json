@@ -1,0 +1,112 @@
+[
+  {
+    "id": "fiqh-essentials",
+    "title": "Essentials of Islamic Jurisprudence",
+    "titleAr": "الأساسيات في الفقه الإسلامي",
+    "description": "A comprehensive guide to the fundamental principles and rulings in Islamic jurisprudence covering worship, transactions, and daily life.",
+    "descriptionAr": "دليل شامل للمبادئ والأحكام الأساسية في الفقه الإسلامي، يشمل العبادات والمعاملات والحياة اليومية.",
+    "language": "Arabic",
+    "coverImage": "images/books/book1.jpg",
+    "downloadLink": "#"
+  },
+  {
+    "id": "tawheed-fundamentals",
+    "title": "Fundamentals of Tawheed",
+    "titleAr": "أصول التوحيد",
+    "description": "An in-depth study of Islamic monotheism (Tawheed), its categories, and its implications for the believer's life.",
+    "descriptionAr": "دراسة معمقة للتوحيد الإسلامي وأقسامه وآثاره في حياة المؤمن.",
+    "language": "Arabic",
+    "coverImage": "images/books/book2.jpg",
+    "downloadLink": "#"
+  },
+  {
+    "id": "hadith-sciences",
+    "title": "Introduction to Hadith Sciences",
+    "titleAr": "مقدمة في علوم الحديث",
+    "description": "A beginner-friendly introduction to the science of Hadith, covering terminology, authentication, and methodology.",
+    "descriptionAr": "مقدمة ميسرة في علم الحديث، تشمل المصطلحات والتحقيق والمنهجية.",
+    "language": "Arabic",
+    "coverImage": "images/books/book3.jpg",
+    "downloadLink": "#"
+  },
+  {
+    "id": "contemporary-fatwas",
+    "title": "Contemporary Fatwas",
+    "titleAr": "فتاوى معاصرة",
+    "description": "A collection of Islamic rulings on modern issues and contemporary matters facing Muslims today.",
+    "descriptionAr": "مجموعة من الأحكام الشرعية في المسائل الحديثة والقضايا المعاصرة التي تواجه المسلمين اليوم.",
+    "language": "Arabic",
+    "coverImage": "images/books/book4.jpg",
+    "downloadLink": "#"
+  },
+  {
+    "id": "purification-heart",
+    "title": "Purification of the Heart",
+    "titleAr": "تزكية النفس",
+    "description": "Guidance on spiritual purification, rectifying the heart, and developing good character based on Quran and Sunnah.",
+    "descriptionAr": "إرشادات حول التزكية الروحية وإصلاح القلب وتنمية الأخلاق الحسنة من الكتاب والسنة.",
+    "language": "Arabic",
+    "coverImage": "images/books/book5.jpg",
+    "downloadLink": "#"
+  },
+  {
+    "id": "islamic-economics",
+    "title": "Islamic Economics and Finance",
+    "titleAr": "الاقتصاد والمالية الإسلامية",
+    "description": "Exploring Islamic principles of economics, finance, and business transactions in light of Shariah.",
+    "descriptionAr": "استكشاف المبادئ الإسلامية في الاقتصاد والمالية والمعاملات التجارية في ضوء الشريعة.",
+    "language": "Arabic",
+    "coverImage": "images/books/book6.jpg",
+    "downloadLink": "#"
+  },
+  {
+    "id": "family-islam",
+    "title": "The Muslim Family",
+    "titleAr": "الأسرة المسلمة",
+    "description": "Comprehensive guide to family life in Islam, covering marriage, parenting, and family relations according to Islamic teachings.",
+    "descriptionAr": "دليل شامل للحياة الأسرية في الإسلام، يشمل الزواج والتربية والعلاقات الأسرية وفق التعاليم الإسلامية.",
+    "language": "Arabic",
+    "coverImage": "images/books/book7.jpg",
+    "downloadLink": "#"
+  },
+  {
+    "id": "quran-reflection",
+    "title": "Reflecting on the Quran",
+    "titleAr": "تدبر القرآن الكريم",
+    "description": "A guide to understanding and reflecting upon the meanings of the Holy Quran and applying its teachings.",
+    "descriptionAr": "دليل لفهم معاني القرآن الكريم والتدبر فيه وتطبيق تعاليمه في الحياة.",
+    "language": "Arabic",
+    "coverImage": "images/books/book8.jpg",
+    "downloadLink": "#"
+  },
+  {
+    "id": "prophetic-biography",
+    "title": "The Prophetic Biography",
+    "titleAr": "السيرة النبوية",
+    "description": "A detailed account of the life of Prophet Muhammad ﷺ, his character, and lessons for contemporary Muslims.",
+    "descriptionAr": "سرد مفصل لحياة النبي محمد ﷺ وأخلاقه والدروس المستفادة للمسلمين المعاصرين.",
+    "language": "Arabic",
+    "coverImage": "images/books/book9.jpg",
+    "downloadLink": "#"
+  },
+  {
+    "id": "islamic-creed-english",
+    "title": "Islamic Creed Simplified",
+    "titleAr": "العقيدة الإسلامية المبسطة",
+    "description": "A simplified explanation of Islamic beliefs and creed for English-speaking Muslims and new converts.",
+    "descriptionAr": "شرح مبسط للعقيدة والإيمان الإسلامي للمسلمين الناطقين بالإنجليزية والمسلمين الجدد.",
+    "language": "English",
+    "coverImage": "images/books/book10.jpg",
+    "downloadLink": "#"
+  },
+  {
+    "id": "prayer-guide-english",
+    "title": "The Complete Guide to Prayer",
+    "titleAr": "الدليل الكامل للصلاة",
+    "description": "A comprehensive English guide to performing the five daily prayers correctly with detailed illustrations and explanations.",
+    "descriptionAr": "دليل إنجليزي شامل لأداء الصلوات الخمس بشكل صحيح مع رسوم توضيحية وشروحات مفصلة.",
+    "language": "English",
+    "coverImage": "images/books/book11.jpg",
+    "downloadLink": "#"
+  }
+]
