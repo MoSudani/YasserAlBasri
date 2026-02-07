@@ -196,6 +196,10 @@ a:hover {
     padding: var(--spacing-sm) 0;
 }
 
+[dir="rtl"] .nav-wrapper {
+    flex-direction: row-reverse;
+}
+
 .logo {
     flex-shrink: 0;
 }
