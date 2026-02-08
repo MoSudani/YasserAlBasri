@@ -108,5 +108,15 @@
     "language": "English",
     "coverImage": "images/books/book11.jpg",
     "downloadLink": "#"
+  },
+  {
+    "id": "hadith-rijal",
+    "title": "Hadith al-Rijal (Men's Talk)",
+    "titleAr": "حديثُ الرّجال",
+    "description": "A realistic, Sharia-based, psychological, cognitive, and nutritional exploration of masculinity, awareness, and responsibility. This is not a personal development book or empty motivational speech - it's a comprehensive approach to understanding modern manhood.",
+    "descriptionAr": "هذا الكتاب ليس كتاب تنمية بشرية ولا خطابًا تحفيزيًا فارغًا\n\nإنه قراءة واقعية شرعية نفسية ومعرفية وتغذوية في الرجولة والوعي والمسؤولية\n\nلماذا هذا الكتاب؟\n\nلأن الحديث عن الرجال اليوم غالبًا ما يتحول إلى عويل أخلاقي أو إلى تنميط سطحي!",
+    "language": "Arabic",
+    "coverImage": "images/Book Cover.png",
+    "downloadLink": "https://payhip.com/b/rWjHK"
   }
 ]
