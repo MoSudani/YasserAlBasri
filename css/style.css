@@ -414,7 +414,7 @@ a:hover {
 }
 
 [dir="rtl"] .section-header {
-    flex-direction: row-reverse;
+    flex-direction: row;
 }
 
 [dir="ltr"] .section-header {
